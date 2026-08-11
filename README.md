@@ -1,8 +1,8 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Egor%20Tcurin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20vibecoder%20and%20BIM%20expert&descSize=16&descAlignY=58)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Egor%20Tcurin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BIM%20expert%20and%20AI%20Prompt%20engineer&descSize=16&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=460&height=32&color=8B949E&lines=AI+vibecoder;BIM+expert;Data+Analytics;Machine+Learning;MSc+in+Mathematics+%26+Computer+Science)](https://github.com/egorongithub)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=460&height=32&color=8B949E&lines=BIM+expert;AI+Prompt+engineer;Data+Analytics;Machine+Learning;MSc+in+Mathematics+%26+Computer+Science)](https://github.com/egorongithub)
 
 </div>
 
