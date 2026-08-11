@@ -1,14 +1,10 @@
 <div align="center">
 
-# Egor
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Egor&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Where%20mathematics%20meets%20construction&descSize=16&descAlignY=58)
 
-BIM Expert · Analytics · Machine Learning
-
-MSc in Fundamental Mathematics and Computer Science
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=460&height=32&color=8B949E&lines=BIM+Expert;Data+Analytics;Machine+Learning;MSc+in+Mathematics+%26+Computer+Science)](https://github.com/egorongithub)
 
 </div>
-
----
 
 ### About
 
@@ -36,8 +32,4 @@ I turn design and construction data into decisions — and apply machine learnin
 
 [Telegram](https://t.me/your_username) · [LinkedIn](https://linkedin.com/in/your_username) · [Email](mailto:your@email.com)
 
----
-
-<div align="center">
-<sub>Where mathematics meets construction</sub>
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
