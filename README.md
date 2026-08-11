@@ -6,7 +6,7 @@
 
 ### About
 
-BIM expert with 5+ years in the AEC industry and a strong mathematical background.
+**Egor Tcurin** — BIM expert with 5+ years in the AEC industry and a strong mathematical background.
 I work at the intersection of construction, data and code — helping teams get more value out of their building information models.
 
 - **BIM** — information modeling standards and requirements, model coordination and clash detection, auditing model quality and consistency across disciplines
