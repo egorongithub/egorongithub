@@ -6,7 +6,7 @@
 
 ### About
 
-**Egor Tcurin** — BIM expert with 5+ years in the AEC industry and a strong mathematical background.
+I am **Egor Tcurin** — BIM expert with 5+ years in the AEC industry and a strong mathematical background.
 I work at the intersection of construction, data and code — helping teams get more value out of their building information models.
 
 - **BIM** — information modeling standards and requirements, model coordination and clash detection, auditing model quality and consistency across disciplines
@@ -16,6 +16,12 @@ I work at the intersection of construction, data and code — helping teams get 
 - **Education** — MSc in Fundamental Mathematics and Computer Science; I like it when a solution is not only working, but provably correct
 
 Interested in openBIM, IFC and the growing role of data science in construction.
+
+### Projects
+
+- **Navisworks full-cycle model checking plugin** — end-to-end BIM model verification for a technical client, with a built-in AI assistant
+- **Revit plugins** — custom tools that automate modeling and data workflows
+- **Web reports for BIM models** — interactive reports with model viewing right in the browser
 
 ### Stack
 
