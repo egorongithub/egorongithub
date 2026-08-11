@@ -8,8 +8,16 @@
 
 ### About
 
-5+ years in Building Information Modeling: standards, coordination, model auditing and workflow automation.
-I turn design and construction data into decisions — and apply machine learning to real-world engineering problems.
+BIM expert with 5+ years in the AEC industry and a strong mathematical background.
+I work at the intersection of construction, data and code — helping teams get more value out of their building information models.
+
+- **BIM** — information modeling standards and requirements, model coordination and clash detection, auditing model quality and consistency across disciplines
+- **Automation** — custom tooling and scripts that remove routine from engineering workflows: data extraction, batch model processing, integrations between design tools
+- **Analytics** — pipelines and dashboards on design and construction data; metrics that make model quality and project progress measurable
+- **Machine learning** — applying ML to engineering problems: classification of model elements, anomaly detection in project data, predictive models
+- **Education** — MSc in Fundamental Mathematics and Computer Science; I like it when a solution is not only working, but provably correct
+
+Interested in openBIM, IFC and the growing role of data science in construction.
 
 ### Stack
 
